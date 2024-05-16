@@ -1,0 +1,13 @@
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\bin\Debug\net8.0\BmiV2.deps.json
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\bin\Debug\net8.0\BmiV2.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\bin\Debug\net8.0\BmiV2.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\bin\Debug\net8.0\BmiV2.xml
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\refint\BmiV2.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.xml
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\BmiV2.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\BmiV2\obj\Debug\net8.0\ref\BmiV2.dll

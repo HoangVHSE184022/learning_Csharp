@@ -1,0 +1,14 @@
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.exe
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.deps.json
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.runtimeconfig.json
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\refint\MainUI.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.genruntimeconfig.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\ref\MainUI.dll
