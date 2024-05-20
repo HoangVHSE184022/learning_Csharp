@@ -26,6 +26,31 @@
     }
 
 
+    internal class StudentNull
+    {
+        //c# gợi ý cách viết code phần cơ bản của 1 class cực nhanh gọn, học sau
+        //Quay lại truyền thống
+        //Class gồm: field + hàm/method => members thành viên của 1 class
+        //Encapsulation
+        private string _id; //con lạc đà và gạch chân từ đầu tiên
+        private string _name;
+        private int _yob;
+        private double? _gpa;
+
+        public StudentNull(string id, string name, int yob, double? gpa)
+        {
+            _id = id;
+            _name = name;
+            _yob = yob;
+            _gpa = gpa;
+        }
+
+        public void ShowProfile()
+        {
+            Console.WriteLine($"ID: {_id} | Name: {_name} | YoB: {_yob} | GPA: {_gpa}");
+        }
+    }
+
 
 
     internal class Program
@@ -33,7 +58,29 @@
         static void Main(string[] args)
         {
             CreateStudentObject();
-            
+            PlayWithNullable();
+        }
+
+        static void PlayWithNullable() 
+        {
+            Student s3 = new Student("SE1", "An", 2004, 7.9);
+            StudentNull s4 = new StudentNull("SE2", "An", 2004, null);
+
+            s4.ShowProfile();
+            //null tại thời điểm này chỉ áp dụng cho biến object 
+            //trỏ vào vùng an toàn byte thứ 0
+            //mang ý nghĩa chưa có sv nào đó cần quan tâm, tìm thấy khi search
+            //không áp dụng cho biến primitive (java)
+
+            //C# offer cho 1 cơ chế: biến primitive null để tương thích null trong database, cột điểm gqa trong database là null
+            //trong code double gpa = null????
+
+            double? gpa = 9.0;
+            gpa = null;
+
+            //ta có int?, long?, double?, float? char? bool?
+            //vẫn mang giá trị như xưa nay và còn được gán thêm giá trị null
+            //STYLE NÀY ĐƯỢC GỌI LÀ NULLABLE - CÓ THỂ MANG THÊM GIÁ TRỊ NULL
         }
 
         static void CreateStudentObject()
@@ -58,10 +105,42 @@
             //khai báo biến xong phải gán value cho biến (chấp loại biến nào primitive với object)
 
             Student s2 = null; //xin ram và dọn dẹp ram sạch sẽ, trỏ vào vùng null (byte đầu tiên của ram, đáy ram, tầng trệt của căn hộ)
-            //s2.ShowProfile(); //bị chửi lúc run app - runtime
+                               //s2.ShowProfile(); //bị chửi lúc run app - runtime
+                               //vì trỏ vào vùng new student không có data để show
+
+
+            //s2 = new Student(...); ổn
+            s2 = s3;
+            s2.ShowProfile();
+
+            Student s4 = null;
+
+            if (s4 != null) //!= và == để check có đang trỏ null hay không
+            {
+                s4.ShowProfile();
+            } else
+            {
+                Console.WriteLine("Please create a student profile before printing");
+            }
+
+            if (s4 is not null) //is not null và is null - giống SQL
+            {
+                s4.ShowProfile();
+            }
+            else
+            {
+                Console.WriteLine("Please create a student profile before printing");
+            }
         }
     }
 }
+
+//MẶC ĐỊNH BIẾN OBJECT KHI KHAI BÁO THÌ CÓ QUYỀN GÁN BẰNG NHỮNG GIÁ TRỊ SAU
+// = NEW 1 VÙNG OBJECT - GỌI CONSTRUCTOR
+// = 1 BIẾN OBJECT ĐÃ NEW TRƯỚC ĐÓ
+// = NULL - TRỎ ĐÁY RAM
+// DÙNG SEARCH 1 OBJECT VÀ KHÔNG TÌM THẤY THÌ TRẢ VỀ NULL
+// CÒN TÌM THẤY THÌ TRẢ VỀ VÙNG NEW STUDENT NÀO ĐÓ
 
 
 //MỘT NAMESPACE CÓ THỂ CHỨ NHIỀU CLASS
