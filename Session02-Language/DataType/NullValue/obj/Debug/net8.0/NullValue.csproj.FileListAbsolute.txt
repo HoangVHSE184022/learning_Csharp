@@ -1,0 +1,14 @@
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\bin\Debug\net8.0\NullValue.exe
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\bin\Debug\net8.0\NullValue.deps.json
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\bin\Debug\net8.0\NullValue.runtimeconfig.json
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\bin\Debug\net8.0\NullValue.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\bin\Debug\net8.0\NullValue.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\refint\NullValue.dll
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.pdb
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\NullValue.genruntimeconfig.cache
+D:\School\ky_5\PRN212\CODING\Session02-Language\DataType\NullValue\obj\Debug\net8.0\ref\NullValue.dll

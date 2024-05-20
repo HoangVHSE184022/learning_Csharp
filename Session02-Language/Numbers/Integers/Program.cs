@@ -163,7 +163,13 @@
 
 
 
+        //CHALLENGE AT HOME
+        //KEYWORD "IN" BIẾN THAM SỐ ĐẦU VÀO CỦA HÀM THÀNH READ-ONLY, VÀ NÓ CÓ THỂ ÁP DỤNG CHO BIẾN PRIMITIVE VÀ BIẾN OBJECT, HAY GỌI LÀ ÁP DỤNG CHO TRUYỀN THAM TRỊ VÀ THAM SỐ
+        //IN NÓ BIẾN THAM SỐ THÀNH READ-ONLY THỨC LÀ KO CHO THAY ĐỔI GIÁ TRỊ TRUYỀN VÀO HÀM
 
-        
+        //Vậy hàm F(in int n) thì n không cho đổi value?
+        //Vậy hàm F(in Student x) thì x readonly cỡ nào, được thay đổi và không thay đổi cụ thể cỡ nào???
+        //X là Student, nó phức tạp hơn int x
+
     }
 }

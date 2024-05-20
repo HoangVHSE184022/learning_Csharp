@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Integers.csproj": {}
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\DataType\\NullValue\\NullValue.csproj": {}
   },
   "projects": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Integers.csproj": {
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\DataType\\NullValue\\NullValue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Integers.csproj",
-        "projectName": "Integers",
-        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Integers.csproj",
+        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\DataType\\NullValue\\NullValue.csproj",
+        "projectName": "NullValue",
+        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\DataType\\NullValue\\NullValue.csproj",
         "packagesPath": "C:\\Users\\ferr_\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\obj\\",
+        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\DataType\\NullValue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferr_\\AppData\\Roaming\\NuGet\\NuGet.Config",

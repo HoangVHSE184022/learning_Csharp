@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|solutionrelative:integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED90840B-78CE-4155-B806-A7EF8A7407EB}|IntegersOutV2\\IntegersOutV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED90840B-78CE-4155-B806-A7EF8A7407EB}|IntegersOutV2\\IntegersOutV2.csproj|solutionrelative:integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|solutionrelative:integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AF8A43-B2F5-4D2A-87C2-5DFFC34560BC}|IntegersOut\\IntegersOut.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3AF8A43-B2F5-4D2A-87C2-5DFFC34560BC}|IntegersOut\\IntegersOut.csproj|solutionrelative:integersout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|solutionrelative:integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED90840B-78CE-4155-B806-A7EF8A7407EB}|IntegersOutV2\\IntegersOutV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED90840B-78CE-4155-B806-A7EF8A7407EB}|IntegersOutV2\\IntegersOutV2.csproj|solutionrelative:integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|solutionrelative:integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersref\\integersref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -46,52 +46,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersRef\\Program.cs",
               "RelativeDocumentMoniker": "IntegersRef\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersRef\\Program.cs",
               "RelativeToolTip": "IntegersRef\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCEAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:25:28.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
-              "RelativeDocumentMoniker": "IntegersOutV2\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
-              "RelativeToolTip": "IntegersOutV2\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:01:23.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T10:25:28.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
+              "RelativeDocumentMoniker": "IntegersOutV2\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
+              "RelativeToolTip": "IntegersOutV2\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:01:23.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOut\\Program.cs",
               "RelativeDocumentMoniker": "IntegersOut\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOut\\Program.cs",
               "RelativeToolTip": "IntegersOut\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAABDAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:10:03.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:10:03.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Program.cs",
               "RelativeDocumentMoniker": "Integers\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Program.cs",
               "RelativeToolTip": "Integers\\Program.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAcwHwAAAA4AAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T09:53:52.484Z",
               "EditorCaption": ""
