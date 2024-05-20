@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1042768-CB24-4212-8448-1D2D86AA3D84}|LibraryUsage\\LibraryUsage.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\libraryusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1042768-CB24-4212-8448-1D2D86AA3D84}|LibraryUsage\\LibraryUsage.csproj|solutionrelative:libraryusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\mainui\\lyrics\\lyriclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|solutionrelative:mainui\\lyrics\\lyriclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1042768-CB24-4212-8448-1D2D86AA3D84}|LibraryUsage\\LibraryUsage.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\libraryusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1042768-CB24-4212-8448-1D2D86AA3D84}|LibraryUsage\\LibraryUsage.csproj|solutionrelative:libraryusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D7F6E1-CCA1-411F-9051-9612B6692A7A}|BmiV2\\BmiV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\bmiv2\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74D7F6E1-CCA1-411F-9051-9612B6692A7A}|BmiV2\\BmiV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\bmiv2\\bmiv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{74D7F6E1-CCA1-411F-9051-9612B6692A7A}|BmiV2\\BmiV2.csproj|solutionrelative:bmiv2\\bmiv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\myutility\\mainui\\lyrics\\lyriclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32867BA4-F9D2-47ED-88D3-B1940D743CE8}|MainUI\\MainUI.csproj|solutionrelative:mainui\\lyrics\\lyriclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\LibraryUsage\\Program.cs",
               "RelativeDocumentMoniker": "LibraryUsage\\Program.cs",
@@ -51,33 +51,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BmiV2",
+              "DocumentIndex": 5,
+              "Title": "BmiV2.csproj",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\BmiV2\\BmiV2.csproj",
               "RelativeDocumentMoniker": "BmiV2\\BmiV2.csproj",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\BmiV2\\BmiV2.csproj",
               "RelativeToolTip": "BmiV2\\BmiV2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-13T09:09:58.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:09:58.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BmiCalculator.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\BmiV2\\BmiCalculator.cs",
               "RelativeDocumentMoniker": "BmiV2\\BmiCalculator.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\BmiV2\\BmiCalculator.cs",
               "RelativeToolTip": "BmiV2\\BmiCalculator.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAPAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wBsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T08:31:03.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\Bmi\\Program.cs",
               "RelativeDocumentMoniker": "Bmi\\Program.cs",
@@ -90,26 +89,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "LyricLibrary.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\MainUI\\Lyrics\\LyricLibrary.cs",
               "RelativeDocumentMoniker": "MainUI\\Lyrics\\LyricLibrary.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\MainUI\\Lyrics\\LyricLibrary.cs",
               "RelativeToolTip": "MainUI\\Lyrics\\LyricLibrary.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvxoAAAAPAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAABUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T10:05:19.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\MainUI\\Program.cs",
               "RelativeDocumentMoniker": "MainUI\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\MyUtility\\MainUI\\Program.cs",
               "RelativeToolTip": "MainUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T08:56:12.708Z",
               "EditorCaption": ""

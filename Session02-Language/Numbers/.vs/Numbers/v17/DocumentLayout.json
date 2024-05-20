@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF5ED331-3EF5-45A5-BF7A-A5AE6A37E22F}|Integers\\Integers.csproj|solutionrelative:integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|d:\\school\\ky_5\\prn212\\coding\\session02-language\\numbers\\integersref\\integersref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E19B2A48-AF9C-4F39-A178-E5BEC87614FC}|IntegersRef\\IntegersRef.csproj|solutionrelative:integersref\\integersref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntegersRef.csproj",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersRef\\IntegersRef.csproj",
+              "RelativeDocumentMoniker": "IntegersRef\\IntegersRef.csproj",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersRef\\IntegersRef.csproj",
+              "RelativeToolTip": "IntegersRef\\IntegersRef.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T02:39:42.826Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +52,7 @@
               "RelativeDocumentMoniker": "IntegersRef\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersRef\\Program.cs",
               "RelativeToolTip": "IntegersRef\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwCEAAAArAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T10:25:28.176Z",
               "EditorCaption": ""
@@ -49,9 +65,10 @@
               "RelativeDocumentMoniker": "IntegersOutV2\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
               "RelativeToolTip": "IntegersOutV2\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:01:23.836Z"
+              "WhenOpened": "2024-05-16T10:01:23.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +78,10 @@
               "RelativeDocumentMoniker": "IntegersOut\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\IntegersOut\\Program.cs",
               "RelativeToolTip": "IntegersOut\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowEIAAAAJAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:10:03.544Z"
+              "WhenOpened": "2024-05-16T09:10:03.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +91,10 @@
               "RelativeDocumentMoniker": "Integers\\Program.cs",
               "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session02-Language\\Numbers\\Integers\\Program.cs",
               "RelativeToolTip": "Integers\\Program.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAAwKYAAAAIAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwHwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:53:52.484Z"
+              "WhenOpened": "2024-05-13T09:53:52.484Z",
+              "EditorCaption": ""
             }
           ]
         }
