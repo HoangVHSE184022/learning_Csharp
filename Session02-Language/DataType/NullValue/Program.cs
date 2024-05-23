@@ -1,4 +1,6 @@
-﻿namespace NullValue
+﻿using Microsoft.VisualBasic;
+
+namespace NullValue
 {
     internal class Student
     {
@@ -57,8 +59,127 @@
     {
         static void Main(string[] args)
         {
-            CreateStudentObject();
-            PlayWithNullable();
+            //CreateStudentObject();
+            //PlayWithNullable();
+            PlayWithNullableV2();
+        }
+
+        static void PlayWithNullableV2()
+        {
+            int a = 0;
+            //int b = null; //bị chửi ngay lúc gõ code vì đây là biến primitive (Java) C#: value type
+            //là biến, vùng ram chỉ lưu 1 giá trị đơ lẻ nào đó
+            //số, ký tự: int, long, float, double
+            //biến style đơn giản này phải gán 1 giá trị hợp lệ, không cho null
+
+            int? c = 0; //vẫn int bình thường
+            c = null; //nhưng có thể mang giá trị null
+            // để match với 1 cột null trong database
+
+            //? ?? y chang như đã học
+            Student s1 = null;
+            Student? s2 = null;
+
+            //với kiểu dữ liệu class/object 
+            //mặc nhiên là đc dùng null mô tả trạng thái tui chưa trỏ ai
+            //tui chưa xác định - dùng kq trả về của search
+
+            //Dùng thêm ? cũng chẳng ảnh hưởng
+            //? đi kèm data type đc gọi là nullable
+            //em có khả năng chưa giá trị null và áp dụng chung cho cả 2 kiểu primitive và object
+
+        }
+
+        //static void PlayWithNullV4()
+        //{
+        //    Student s1 = null;
+        //    Student s2 ??= s1;
+        //}
+
+        static void PlayWithNullV3()
+        {
+            int yob = 2004;
+            string msg;
+            //Nếu năm sinh > 2000 thì in ra GenZ
+            //ngược lại in ra Outdated
+
+            //if (yob > 2000)
+            //{
+            //    msg = "GenZ";
+            //} else
+            //{
+            //    msg = "Outdated";
+            //}
+
+            msg = yob > 2000 ? "GenZ" : "Outdated";
+            //TOÁN TỬ TÌNH TAY BA - CODITIONAL TERNARY OPERATOR
+            //TOÁN TỬ 3 NGÔI
+            //MỆNH ĐỀ ĐÚNG SAI TRONG PHÉP TOÁN NÀY KO HẲN LÀ CHECK NULL MÀ LÀ BẤT KỲ MỆNH ĐỀ SO SÁNH NÀO
+            //CHỈ CẦN ĐÚNG SAI, KO CẦN CÓ ĐÚNG NULL KHÔNG
+           //CÓ ĐÚNG NULL KHÔNG MÌNH DÙNG ? CŨNG ĐƯỢC HOẶC DÙNG ??
+            Console.WriteLine(msg);
+
+            Student s1 = null;
+            Student s2 = s1 == null ? new Student("SE2", "Hai", 2002, 2.2) : s1;
+            s2.ShowProfile();
+        }
+
+        static void PlayWithNullV2()
+        {
+            Student s1 = null;
+            Student s2 = s1; //s2 cũng bằng null luôn
+
+            Student s3 = null;
+            Student s4 = s3 ?? new Student("SE4", "Bốn", 2004, 4.4);
+            s4.ShowProfile();
+
+            //viết lại thì nó là:
+            if (s3 == null)
+            {
+                s4 = new Student("SE4", "Bốn", 2004, 4.4);
+            } else
+            {
+                s4 = s3;
+            }
+            //KỸ THUẬT NÀY ĐẢM BẢO RẰNG BIẾN SẼ CÓ GIÁ TRỊ NÀO ĐÓ, ĐƯỢC GÁN GIÁ TRỊ NÀO ĐÓ | ĐỪNG NHẦM VỚI BIẾN?GỌI HÀM - NULL CONDITION
+            //KỸ THUẬT NÀY DÙNG ĐỂ GÁN GIÁ TRỊ DEFAULT CHO 1 BIẾN KHI NGỘ NHƠ VẾ BÊN PHẢI CÓ THÀNH PHẦN LÀ NULL THÌ MÌNH CÓ GIÁ TRỊ DỰ PHÒNG
+            //TOÁN TỬ NÀY GỌ LÀ COALESING - TOÁN TỬ KẾT NỐI, KÊT HỢP
+
+            Student s5 = new Student("SE5", "Năm", 2005, 5.5); ;
+            Student s6= s5 ?? new Student("SE6", "Sáu", 2006, 6.6);
+            s6.ShowProfile();
+        }
+
+        static void PlayWithNull()
+        {
+            Student s1;
+            //s1.ShowProfile(); //bị chửi vì biến đang lưu rác, không gọi hàm đươc, vì rác thì không có hàm để chạy
+            //Java và C# khai báo biến mà không gán giá trị thì cấm không được dùng lệnh dưới đó
+            //tệ nhất phải gán null - TRỎ VÀO ĐÁY RAM, BYTE 0
+            Student s2 = null;
+            //s2.ShowProfile(); //Runtime error
+            //để tránh runtime thì ta dùng if, hoặc gán tử tế biến object rồi mới chấm hàm để dùng
+            //tại sao có null để phải check: dính đến kết quả search có thể thấy và không thấy object: ko thấy thì trả về null
+            if (s2 is null)
+            {
+                Console.WriteLine("Please assigning or creating an object first before printing s2");
+            } else
+            {
+                s2.ShowProfile();
+            }
+            //cách viết trên hơi dài 1 tí nhưng ổn
+
+            Student s3 = null;
+            Console.WriteLine("s3 checking...");
+            s3?.ShowProfile();
+            //NULL CONDITION OPERATOR
+            //LÀ KÝ HIỆU, PHÉP TOÁN, PHÉP SO SÁNH KIỂM TRA 1 OBJECT CỐ NULL HAY KHÔNG TRƯỚC KHI GỌI HÀM CỦA NÓ
+            //VIẾT GỘP CỦA IF VÀ ELSE
+            //TRÁNH BỊ RUNTIME ERROR
+
+            Student s4 = new Student("SE4", "Bốn", 2004, 4.0);
+            Console.WriteLine("s4 checking...");
+            s4?.ShowProfile();
         }
 
         static void PlayWithNullable() 
