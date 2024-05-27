@@ -1,0 +1,14 @@
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.exe
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.deps.json
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.runtimeconfig.json
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.dll
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.pdb
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.dll
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\refint\StudentManagerV2.dll
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.pdb
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.genruntimeconfig.cache
+D:\School\ky_5\PRN212\CODING\Session03-OOP\FAP\StudentManagerV2\obj\Debug\net8.0\ref\StudentManagerV2.dll
