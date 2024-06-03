@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ferr_\\.nuget\\packages\\": {}
+    "C:\\Users\\ferr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\StudentManagerV8.csproj",
+      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\StudentManagerV8.csproj",
       "projectName": "StudentManagerV8",
-      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\StudentManagerV8.csproj",
-      "packagesPath": "C:\\Users\\ferr_\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\obj\\",
+      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\StudentManagerV8.csproj",
+      "packagesPath": "C:\\Users\\ferr\\.nuget\\packages\\",
+      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ferr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\",
+  "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv9\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv9\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|solutionrelative:studentmanagerv9\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|solutionrelative:studentmanagerv8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv7\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|solutionrelative:studentmanagerv7\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|solutionrelative:studentmanagerv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2D1C15-F0AC-46DC-BE39-C44CF9B3CE3E}|StudentManagerV9\\StudentManagerV9.csproj|solutionrelative:studentmanagerv9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|solutionrelative:studentmanagerv8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv7\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|solutionrelative:studentmanagerv7\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD0725-E4D4-4B95-822B-8CDAA24976CF}|StudentManagerV8\\StudentManagerV8.csproj|solutionrelative:studentmanagerv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35AA0F18-813A-4F02-B62D-00E7AA9E4A83}|StudentManagerV7\\StudentManagerV7.csproj|solutionrelative:studentmanagerv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagementv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagementv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|solutionrelative:studentmanagementv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|solutionrelative:studentmanagerv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3ACE840-2D1C-4484-97BC-94ED5DA69B5A}|StudentManagerV6\\StudentManagerV6.csproj|solutionrelative:studentmanagerv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E0A305-3465-4DA5-BC49-58575934F152}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{851AD15E-8C2D-4A11-8381-0EF5F7770304}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagementv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagementv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF94E4C-D67B-4954-AD1E-EF47CD1FDF08}|StudentManagementV3\\StudentManagerV3.csproj|solutionrelative:studentmanagementv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|solutionrelative:studentmanagerv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{120260A5-53B7-40DA-A366-A95D38F9A983}|StudentManagerV4\\StudentManagerV4.csproj|solutionrelative:studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|d:\\school\\ky_5\\prn212\\coding\\session03-oop\\fap\\studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|d:\\school\\ky_5\\prn212\\coding\\git_backup\\learning_csharp\\session03-oop\\fap\\studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9029706A-E9C0-4F54-8103-FF40143545B8}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,40 +82,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV9\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV9\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T10:29:15.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV9\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\Program.cs",
               "RelativeToolTip": "StudentManagerV9\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T10:28:50.928Z"
+              "WhenOpened": "2024-05-30T10:28:50.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV8\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV8\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV8\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV8\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV8\\Program.cs",
               "RelativeToolTip": "StudentManagerV8\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV7\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV7\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV7\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV7\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV7\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV7\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV7\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV7\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV7\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV7\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV7\\Program.cs",
               "RelativeToolTip": "StudentManagerV7\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV6\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV6\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV6\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV6\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV6\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV6\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAvwA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV6\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV6\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV6\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV6\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV6\\Program.cs",
               "RelativeToolTip": "StudentManagerV6\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV1\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\Program.cs",
               "RelativeToolTip": "StudentManagerV1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV1\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV1\\Entities\\Student.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV2\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV2\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV5\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV5\\Entities\\Student.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAhwD4AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV5\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
               "RelativeToolTip": "StudentManagerV5\\Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAgwEAAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV4\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV4\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV4\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
               "RelativeToolTip": "StudentManagerV4\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagementV3\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagementV3\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagementV3\\Entities\\Student.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagementV3\\Entities\\Student.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagementV3\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagementV3\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagementV3\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagementV3\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagementV3\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagementV3\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagementV3\\Program.cs",
               "RelativeToolTip": "StudentManagementV3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,13 +298,17 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV2\\Program.cs",
-              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
               "RelativeToolTip": "StudentManagerV2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T09:39:23.463Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
