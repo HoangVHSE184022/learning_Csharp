@@ -41,7 +41,7 @@ namespace StudentManager.Services
         //RỒI MOVE NHANH 1 PHÁT VÀO MẢNG
         //arr = mảng đã đủ, nhiều sv
         //ko thực teesL tủ hồ sơ sẽ đc add từ từ
-        
+
 
         //tạo mới nhiều sp cùng lúc - chuẩn bị 1 danh sách excel - import
 
@@ -52,7 +52,7 @@ namespace StudentManager.Services
 
         public Cabinet()
         {
-            
+
         }
 
         //bộ hàm crud
@@ -73,7 +73,8 @@ namespace StudentManager.Services
         public void AddAStudent(Student s) //tốt nhất
         {
             //có info ở ngoài truyền vào, new student hoi và add vào vị trí thứ [i count] của mảng
-            if (_count == 29) {
+            if (_count == 29)
+            {
                 Console.WriteLine("The list is full, no more student profile added");
                 return;
             } //đã có return trong if thì ko cần else
@@ -88,6 +89,62 @@ namespace StudentManager.Services
             for (int i = 0; i < _count; i++)
             {
                 _arr[i].ShowProfile();
+            }
+        }
+
+        public void UpdateAStudent(string id)
+        {
+            int found = 0;
+            for (int i = 0; i < _count; i++)
+            {
+                if (_arr[i].Id == id)
+                {
+                    found = i;
+                    break;
+                }
+            }
+
+            if (found == 0)
+            {
+                Console.WriteLine("Cannot found Student with Id " + id);
+            }
+            else
+            {
+                Console.WriteLine("Old Info:");
+                _arr[found].ShowProfile();
+                Console.Write("Enter new Id: "); _arr[found].Id = Console.ReadLine();
+                Console.Write("Enter new Name: "); _arr[found].Name = Console.ReadLine();
+                Console.Write("Enter new Yob: "); _arr[found].Yob = int.Parse(Console.ReadLine());
+                Console.Write("Enter new Gpa: "); _arr[found].Gpa = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Update Successfully!");
+            }
+        }
+
+        public void DeleteAStudent(string id)
+        {
+            int found = 0;
+            for (int i = 0; i < _count; i++)
+            {
+                if (_arr[i].Id == id)
+                {
+                    found = i;
+                    break;
+                }
+            }
+
+            if (found == 0)
+            {
+                Console.WriteLine("Cannot found Student with Id " + id);
+            }
+            else
+            {              
+                _arr[found].Id = "";
+                _arr[found].Name = "";
+                _arr[found].Yob = 0;
+                _arr[found].Gpa = 0;
+
+                Console.WriteLine("Delete Successfully!");
             }
         }
 

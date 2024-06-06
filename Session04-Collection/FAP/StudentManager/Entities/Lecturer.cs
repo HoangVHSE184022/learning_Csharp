@@ -6,28 +6,27 @@ using System.Threading.Tasks;
 
 namespace StudentManager.Entities
 {
-    public class Student
+    public class Lecturer
     {
         public string Id { get; set; }
         public string Name { get; set; }
         public int Yob { get; set; }
-        public double Gpa { get; set; }
+        public double Salary { get; set; }
 
-        //làm biếng làm constructor thì xài constructor default + object initializer để fill info
-        public Student()
+        public Lecturer()
         {
             
         }
 
-        public Student(string id, string name, int yob, double gpa)
+        public Lecturer(string id, string name, int yob, double salary)
         {
             Id = id;
             Name = name;
             Yob = yob;
-            Gpa = gpa;
+            Salary = salary;
         }
 
-        public override string ToString() => $"Id: {Id} | Name: {Name} | Yob: {Yob} | Gpa: {Gpa}";
+        public override string ToString() => $"Id: {Id} | Name: {Name} | Yob: {Yob} | Salary: {Salary}";
 
         public void ShowProfile() => Console.WriteLine(ToString());
     }
