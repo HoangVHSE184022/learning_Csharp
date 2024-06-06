@@ -4,10 +4,37 @@
     {
         static void Main(string[] args)
         {
-            PlayWithIntegerListV4();
+            PlayWithIntegerListV5();
         }
 
         //CHALLENGE 1: HÃY LƯU TRỮ DÃU SỐ 5 10 15 20 25 30 35 40 45 50 ... VÀ IN RA MÀN HÌNH
+
+        static void PlayWithIntegerListV5()
+        {
+            int[] arr = new int[10];
+            arr[0] = 5;
+            arr[1] = 10;
+            arr[2] = 15;
+            arr[3] = 20;
+
+            //ta mới xài, mới gán  4 phần tử (element) 4 biến có giá trị, biến trong mảng gọi là phần tử
+            //vậy các biến còn lại mang giá trị mấy
+            //ĐỪNG QUÊN: MẢNG LÀ OBJECT, LÀ 1 VÙNG NEW CHỨA NHIỀU BIẾN BÊN TRONG, CŨNG NHƯ NEW STUDENT() CHỨA NHIỀU INFO BÊN TRONG
+            //in mảng
+
+            Console.WriteLine("The list of numbers printed by using for i");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("The list of numbers printed by using for e");
+            foreach (var i in arr)
+            {
+                Console.Write(i + " ");
+            }
+        }
 
         static void PlayWithIntegerListV4()
         {

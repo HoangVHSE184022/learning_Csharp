@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBasic", "ArrayBasic\ArrayBasic.csproj", "{18E95BC9-4B50-4BB0-BF6C-F81376336C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayBasic", "ArrayBasic\ArrayBasic.csproj", "{18E95BC9-4B50-4BB0-BF6C-F81376336C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{AECF8206-F9DC-49EE-A931-001DA6D9B19C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{AECF8206-F9DC-49EE-A931-001DA6D9B19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{C7D61121-8107-4D5B-B9A0-FBCD3165D9BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AECF8206-F9DC-49EE-A931-001DA6D9B19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECF8206-F9DC-49EE-A931-001DA6D9B19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECF8206-F9DC-49EE-A931-001DA6D9B19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D61121-8107-4D5B-B9A0-FBCD3165D9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D61121-8107-4D5B-B9A0-FBCD3165D9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D61121-8107-4D5B-B9A0-FBCD3165D9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D61121-8107-4D5B-B9A0-FBCD3165D9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
