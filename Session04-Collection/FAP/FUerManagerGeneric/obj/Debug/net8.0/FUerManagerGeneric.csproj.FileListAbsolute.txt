@@ -1,0 +1,14 @@
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\bin\Debug\net8.0\FUerManagerGeneric.exe
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\bin\Debug\net8.0\FUerManagerGeneric.deps.json
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\bin\Debug\net8.0\FUerManagerGeneric.runtimeconfig.json
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\bin\Debug\net8.0\FUerManagerGeneric.dll
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\bin\Debug\net8.0\FUerManagerGeneric.pdb
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.dll
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\refint\FUerManagerGeneric.dll
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.pdb
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\FUerManagerGeneric.genruntimeconfig.cache
+D:\School\ky_5\PRN212\CODING\Session04-Collection\FAP\FUerManagerGeneric\obj\Debug\net8.0\ref\FUerManagerGeneric.dll

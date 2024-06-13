@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj": {}
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj": {}
   },
   "projects": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj": {
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj",
+        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj",
         "projectName": "ArrayBasic",
-        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj",
+        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayBasic\\ArrayBasic.csproj",
         "packagesPath": "C:\\Users\\ferr\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayBasic\\obj\\",
+        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayBasic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,7 +5,7 @@ namespace StudentManager
 {
     internal class Program
     {
-        static Cabinet tuSE = new Cabinet();
+        static StudentCabinet tuSE = new StudentCabinet();
         static LecturerCabinet tuLec = new LecturerCabinet();
 
         static void Main(string[] args)
@@ -14,7 +14,7 @@ namespace StudentManager
             //đi mua cái tủ đựng hồ sơ
             //Cabinet tuSE = new Cabinet();   //Có sẵn ngăn 30 tủ đựng hồ sơ
             //Đang empty _count = 0
-            Cabinet tuBiz = new Cabinet();  //có thêm 30 ngăn khác, empty = 0
+            StudentCabinet tuBiz = new StudentCabinet();  //có thêm 30 ngăn khác, empty = 0
             //2 vùng new riêng biệt, 2 tủ riêng biệt
 
             tuSE.AddAStudent(new Student() { Id = "SE1", Name = "An" });

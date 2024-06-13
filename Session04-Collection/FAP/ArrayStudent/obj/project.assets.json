@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayStudent\\ArrayStudent.csproj",
+      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayStudent\\ArrayStudent.csproj",
       "projectName": "ArrayStudent",
-      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayStudent\\ArrayStudent.csproj",
+      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayStudent\\ArrayStudent.csproj",
       "packagesPath": "C:\\Users\\ferr\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session04-Collection\\FAP\\ArrayStudent\\obj\\",
+      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session04-Collection\\FAP\\ArrayStudent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
