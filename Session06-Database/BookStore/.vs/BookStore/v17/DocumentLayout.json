@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanagerguiforms\\bookmanagerguiforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookmanagerguiforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044BDAD9-9590-478F-9045-9B7E33DFDB2A}|BookManager\\BookManager.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{044BDAD9-9590-478F-9045-9B7E33DFDB2A}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session06-database\\bookstore\\bookmanagerguiforms\\bookmanagermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookmanagermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDetailForm.Designer.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:37:54.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetailForm.cs [Design]",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs [Design]",
+              "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:26:51.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManager\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManager\\appsettings.json",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManager\\appsettings.json",
+              "RelativeToolTip": "BookManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T09:04:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookManagerMainForm.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookManagerMainForm.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs",
+              "RelativeToolTip": "BookManagerGUIForms\\BookManagerMainForm.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:01:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagerMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookManagerMainForm.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs [Design]",
+              "RelativeToolTip": "BookManagerGUIForms\\BookManagerMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:58:06.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManagerGUIForms.csproj",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerGUIForms.csproj",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookManagerGUIForms.csproj",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerGUIForms.csproj",
+              "RelativeToolTip": "BookManagerGUIForms\\BookManagerGUIForms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T09:08:36.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDetailForm.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:27:32.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookManagerMainForm.Designer.cs",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookManagerMainForm.Designer.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session06-Database\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.Designer.cs",
+              "RelativeToolTip": "BookManagerGUIForms\\BookManagerMainForm.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIBJwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:10:23.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

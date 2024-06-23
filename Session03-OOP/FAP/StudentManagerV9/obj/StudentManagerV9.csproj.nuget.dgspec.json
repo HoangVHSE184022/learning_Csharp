@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj": {}
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj": {}
   },
   "projects": {
-    "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj": {
+    "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj",
+        "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj",
         "projectName": "StudentManagerV9",
-        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj",
+        "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\StudentManagerV9.csproj",
         "packagesPath": "C:\\Users\\ferr\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV9\\obj\\",
+        "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferr\\AppData\\Roaming\\NuGet\\NuGet.Config",

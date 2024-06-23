@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
+      "projectUniqueName": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
       "projectName": "StudentManagerV1",
-      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
+      "projectPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
       "packagesPath": "C:\\Users\\ferr\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\git_backup\\learning_Csharp\\Session03-OOP\\FAP\\StudentManagerV1\\obj\\",
+      "outputPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session03-OOP\\FAP\\StudentManagerV1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferr\\AppData\\Roaming\\NuGet\\NuGet.Config",

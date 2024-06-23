@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4F5EF1-9D6B-490A-8D99-DD4D0117EDC6}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\school\\ky_5\\prn212\\coding\\session07-gui\\bookstore\\bookmanagerguiwpf\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E4F5EF1-9D6B-490A-8D99-DD4D0117EDC6}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4F5EF1-9D6B-490A-8D99-DD4D0117EDC6}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\school\\ky_5\\prn212\\coding\\session07-gui\\bookstore\\bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E4F5EF1-9D6B-490A-8D99-DD4D0117EDC6}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\school\\ky_5\\prn212\\coding\\session07-gui\\bookstore\\bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{350437E7-2A5F-4F31-A244-F87E72DFCBF6}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookmanagermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetail.xaml",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\BookDetail.xaml",
+              "RelativeDocumentMoniker": "BookManagerGUIWPF\\BookDetail.xaml",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\BookDetail.xaml",
+              "RelativeToolTip": "BookManagerGUIWPF\\BookDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:46:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagerGUIWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
+              "RelativeToolTip": "BookManagerGUIWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:44:49.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManagerMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs",
+              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookManagerMainForm.cs",
+              "ToolTip": "D:\\School\\ky_5\\PRN212\\CODING\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookManagerMainForm.cs [Design]",
+              "RelativeToolTip": "BookManagerGUIForms\\BookManagerMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:44:25.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+GIẢI NGỐ KẾT NỐI C# VÀO CSDL
+
+C# VÀ JAVA VÀ CÁC NGÔN NGỮ LTRINH KHÁC KHI CHƠI VỚI CSDL - THẾ GIỚI THÌ CẦN PHẢI CÓ ĐỒ CHƠI - ĐỒ CHƠI CHÍNH LÀ CÁC THƯ VIỆN/CODE CÓ SẴN DO CÁC CÔNG TY LỚN VIẾT RA, GIÚP DÂN DEV NHANH CHÓNG, DỄ DÀNG THAO TÁC CRUD DATA CỦA CÁC TABLE
+
+NNLT --------------------------------------------- CSDL
+C#, JAVA		CRUD		SQLSERVER, MYSQL, MONGODB
+		THƯ VIỆN - DEPENDENCY
+
+CÓ 2 CÁCH ĐỂ NNLT CHƠI VỚI CSDL: CODE FIRST - DATABASE FIRST
+
+CODE FIRST >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+NNLT 			--------------------------------------------- 		CSDL
+C#, JAVA				LIB/DEPENDENCY			SQLSERVER, MYSQL, MONGODB
+CÁC CLASS MAP XUỐNG TABLE		--------------->		TỪ CODE TẠO RA TABLE
+CÁC CLASS CŨNG CÓ RELATIONSHIP		
+
+
+DATABASE FIRST >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PE CHƠI DB FIRST
+
+NNLT 			--------------------------------------------- 		CSDL
+C#, JAVA				LIB/DEPENDENCY			SQLSERVER, MYSQL, MONGODB
+CÁC CLASS MAP XUỐNG TABLE	<-------------------------		CÓ SẴN TABLE, SẴN DATA, CÓ SẴN 
+CÁC CLASS CŨNG CÓ RELATIONSHIP		SUY NGƯỢC RA 			RELATIONSHIP TRONG TABLE
+					ENTITY CLASS				
+
+1. ENTITY FRAMEWORK CORE LÀ GÌ???
+
+* LÀ BỘ THƯ VIỆN CHUẨN CỦA MICROSOFT GIÚP DÂN DEV TRÊN MÔI TRƯỜNG .NET LÀM VIỆC VỚI CSDL THUẬN TIỆN, NHANH CHÓNG, HIỆU QUẢ, KHÔNG CẦN BIẾT CÂU SQL
+	> VỚI JAVA THÌ TA DÙNG 1 BỘ THƯ VIỆN TƯƠNG ĐƯƠNG ĐÓ CHÍNH LÀ JPA/HIBERNATE
+* C# NGOÀI EF CORE, CÒN 1 BỘ THƯ VIỆN NỔI TIẾNG KHÁC KO CHÍNH HÃNG (NHÓM DEV KO CỦA MICROSOFT VIẾT RA - 3RD PARTY - THIRD PARTY) - DAPPER!!!
+------------
+KỸ THUẬT LẬP TRÌNH VỚI CSDL MÀ KO CẦN VIẾT CÂU SQL DC GỌI LÀ ORM - OBJECT RELATIONAL MAPPING, CHỈ CHƠI CODE OOP MÀ VẪN CRUD ĐƯỢC DATABASE
+------------
+* NẾU TA KHÔNG CHƠI EF CORE THÌ TA DÙNG PP TRUYỀN THỐNG - PHẢI VIẾT CÂU SQL TRONG CODE LUÔN - ADO.NET (C#)
+											    - JDBC    (JAVA)
+
+NNLT --------------------------------------------- CSDL
+C#, JAVA		CRUD		SQLSERVER, MYSQL, MONGODB
+		THƯ VIỆN - DEPENDENCY
+		  ADO.NET - EF CORE
+
+2. EF CORE GỒM NHỮNG GÌ???
+
+- EF CORE LÀ BỘ THƯ VIỆN CHUẨN CỦA MS GIÚP TA NỐI C#, VB.NET VỚI CSDL MÀ KHÔNG CẦN PHẢI VIẾT CÂU SQL
+- NÓ LÀ NHỮNG FILE .DLL ĐƯỢC TẢI VỀ TỪ NUGET.ORG (KHO CHỨA FILE .DLL CỦA CỘNG ĐỒNG MICROSOFT) VÀ ĐƯỢC ADD VÀO PROJECT VÀ ĐƯỢC ADD VÀO BỘ LỆNH ĐI KÈM LỆNH DOTNET.EXE ĐÃ TỪNG HỌC KHI CÀI SDK
+
+* EF CORE GỒM 2 NHÓM .DLL
+>>>>> NHÓM 1: NHỮNG DLL HỖ TRỢ CHO LỆNH DOTNET.EXE ĐỂ GIÚP PHÁT SINH ENTITY CLASS TỪ DATABASE
+		* TẢI NHỮNG DLL NÀY VỀ BẰNG LỆNH
+			dotnet tool install --global dotnet-ef --version 8.*
+			dotnet tool install --global dotnet-ef                 //install the latest version
+		* LỆNH ĐỂ PHÁT SINH ENTITY CLASS TỪ TABLE: (DB SCAFFOLD - DỰNG DÀN KHUNG CLASS MAP VỚI TABLE)
+dotnet ef dbcontext scaffold "Server=(local);Database= BookManagementDb;UID=sa;PWD=12345;TrustServerCertificate=True" "Microsoft.EntityFrameworkCore.SqlServer" --output-dir "Entities" --context-dir ".\"
+
+>>>>>> NHÓM 2: CÁC .DLL (JAVA GỌI LÀ FILE .JAR KHAI BÁO TRONG FILE POM.XML
+			* TẢI VỀ QUA ADD DEPENDENCY TRÊN CÁC PROJECT REPOSITORY
+			* TẢI VỀ 4 NAMESPACE - 4 PACKAGE
+> Microsoft.EntityFrameworkCore
+> Microsoft.EntityFrameworkCore.Design
+> Microsoft.EntityFrameworkCore.Tools
+> Microsoft.EntityFrameworkCore.SqlServer
+
+3. TA GÕ LỆNH ĐỂ SUY NGƯỢC TỪ TABLE THÀNH CLASS - ĐÃ HỌC RỒI!!!
+
+4. FILE DBCONTEXT - ĐÂY LÀ TẬP TIN LÕI - QUAN TRỌNG NHẤT KHI CHƠI VỚI CSDL
+- NÓ SẼ ĐƯỢC TỰ ĐỘNG TẠO RA NẾU TA CHƠI TRÒ DB FIRST - QUA LỆNH DB SCAFFOLD VÀ NÓ CHÍNH LÀ ĐẠI DIỆN CHO CSDL MÌNH ĐANG THAO TÁC, VÀ NÓ CHÍNH LÀ CLASS CABINET CHỨA DANH SÁCH CÁC TABLE MÀ MÌNH ĐG THAO TÁC. CSDL CÓ 5 TABLE THÌ CABINET CÓ 5 LIST, THÌ MỖI LIST ỨNG VỚI 1 TABLE
+(BÀI CABINET ĐÃ HỌC THÌ CABITNET CHỈ CHỨA 1 LIST<T>, T CÓ THỂ LÀ STUDENT, LECTURER,...)
+(DBCONTEXT CHỨA LUÔN LIST<STUDENT>, LIST<LECTURER>,... )
+GỘP N LIST ỨNG VỚI N TABLE LUÔN CHO TIỆN THAO TÁC
+
+CẤU TRÚC CỦA DBCONTEXT
+
+	DBCONTEXT <---------------------------------------------> DATABASE THỰC SỰ (NƠI CÓ NHIỀU TABLE)
+     LIST<BOOK-CATEGORY>						TABLE CATEGORY
+    .ADD(NEW BOOK-CATEGORY)				     	     INSERT INTO CATEGORY
+    
+     LIST<BOOK>								TABLE BOOK
+     .ADD(NEW BOOK)						     INSERT INTO BOOK
+     CRUD METHOD						     INSERT, SELECT, UPDATE, DELETE
+
+     LIST<ACCOUNT>							TABLE ACCOUNT
+     CRUD METHOD						     INSERT, SELECT, UPDATE, DELETE
+
+LIST THỰC TẾ TRONG CODE ĐƯỢC THAY BẰNG DbSet<Book>
+				       DbSet<Category>
+				       DbSet<Account>
+SỐ HÀM CỦA DbSet NHIỀU HƠN LIST DO DÍNH ĐẾN DB
+
+
+OnConfiguring() - ĐÂY LÀ HÀM QUAN TRỌNG VÌ NÓ CHỨA CHUỖI KẾT NỐI CSDL - CONNECTION STRING
+		- GHI RÕ IP NÀO, MÁY NÀO, SERVER, MÁY NÀO, CSDL NÀO, USER/PASS LOGIN VÀO DBSERVER
+
+CHUỖI KẾT NỐI CSDL - CONNECTION STRING ĐƯỢC COPY TỪ LỆNH DB SCAFFOLD TA GÕ LÚC GENERATE RA ENTITY CLASS
+TA CẦN CHUỖI NÀY ĐỂ GIÚP CODE ĐƯỢC GIAO TIẾP VỚI CSDL
+- CHUỖI NÀY GẮN VỚI PROJECT, TƯƠNG LAI GẮN VỚI DLL - HARD-CODE
+  KHÔNG TỐT KHI CẦN BẢO MẬT CHUỖI KẾT NỐI, ĐỔI INFO KẾT NỐI, TA PHẢI MỞ SOURCE SỬA FILE, SỬA XONG PHẢI BIÊN DỊCH, ĐÓNG GÓI LẠI APP
+- DÂN DEV THƯỜNG SẼ TÁCH CONNECTION STRING RA 1 FILE CẤU HÌNH RIÊNG - TEXT THUẦN
+- SAU NÀY ĐỔI INFO KẾT NỐI CHỈ CẦN SỬA FILE CẤU HÌNH -> APP CHƠI ĐƯỢC VỚI MÁY MỚI
+
+-> BẮT BUỘC PHẢI LÀM VỚI BÀI PE HOẶC 0 ĐIỂM
+
+!!! CHỈ CẦN NHỚ CÁCH LÀM, CÚ PHÁP GÕ ĐÃ CÓ TRONG ĐỀ THI
+
+- TA TẠO 1 FILE CẤU HÌNH KIỂU ĐUÔI .JSON
+- PASTE CHUỖI KẾT NỐI CSDL VÀO FILE NÀY
+- VIẾT HÀM ĐỌC CONNECTION STRING NÀY ĐỂ VÀO TRONG DBCONTEXT
+- TRONG DBCONTEXT SỬA HÀM ONCONFIGURING ĐỂ GỌI HÀM ĐỌC CHUỖI NÀY
+
+- ĐOẠN CODE CÓ TRONG ĐỀ THI!!! KO CẦN HỌC THUỘC LÒNG CODE
+
+- NHỚ ĐỂ CODE ĐỌC FILE .JSON CHẠY ĐƯỢC, TA CẦN THÊM DEPENDENCY XỬ LÝ FILE .JSON
+> Microsoft.Extensions.Configuration
+> Microsoft.Extensions.Configuration.Json

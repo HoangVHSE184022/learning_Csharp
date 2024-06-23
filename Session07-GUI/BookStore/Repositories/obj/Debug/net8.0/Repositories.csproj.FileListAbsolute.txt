@@ -1,0 +1,14 @@
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\School\ky_5\PRN212\CODING\Session07-GUI\BookStore\Repositories\obj\Debug\net8.0\ref\Repositories.dll
